@@ -2,3 +2,27 @@
 
 <!--setting html language to english-->
 <html lang="en">
+
+<head>
+
+  <!--meta tag charset attribute utf-8 value-->
+  <meta charset="utf-8">
+
+  <title>Fun in the Safety</title>
+
+<head/>
+
+<body>
+
+  <h1>A Century of Artists</h1>
+
+  <h2>Lois Mailou Jones</h2>
+
+
+  <h2>Jean-Michel Basquiat</h2>
+
+
+  <h2>Kehinde Wiley</h2>
+
+
+</body>
